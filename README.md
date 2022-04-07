@@ -21,8 +21,8 @@ _Tools Bar ➔ Settings ➔ Editor ➔ Inspections ➔ Uncheck 'Java' ➔ OK_.
 2. Every Additional Method:
     - has a mistake that can be caught by SolarLint,
     - has clues one the id of the mistake which should be corrected.
-3. Correct every mistake in the Additional Methods that can be caught by SolarLint and is mentioned int the clues referring to the given method.
-4. Prior to correction of every mistake in the Additional Methods, run SolarLint and identify the mistake to be corrected in SolarLint's suggestions. Run SolarLint the following way:<br>
+3. Correct every mistake in the Additional Methods that can be caught by SolarLint and is mentioned in the clues referring to the given method.
+4. Prior to the correction of every mistake in the Additional Methods, run SolarLint and identify the mistake to be corrected in SolarLint's suggestions. Run SolarLint the following way:<br>
    _Bottom Tools Bar ➔ SolarLint ➔ Analyze with SolarLing (green arrow-button)_
 5. Do not change anything in the `main` method.
-6. After the correction of all the mistakes, run SolarLint and make sure that it shows no mistakes which required to be corrected.
+6. After the correction of all the mistakes, run SolarLint and make sure that it shows no mistakes which are required to be corrected.
