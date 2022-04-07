@@ -37,7 +37,7 @@ class SolarLint {
         System.out.printf("Connected string: %s%n", connectedString);
     }
 
-    /* Correct this method so that after the correction:
+    /* Correct the body of this method so that after the correction:
      * - there is no bug 'java:S2095'
      * - there is no code smell 'java:S2093'
      * - there is no bug 'java:S2259' */
@@ -54,7 +54,7 @@ class SolarLint {
         }
     }
 
-    /* Correct this method so that after the
+    /* Correct the body of this method so that after the
      * correction there is no code smell 'java:S1181' */
     private static int doUnsafeDivision(int dividend, int divisor) {
         try {
@@ -65,7 +65,7 @@ class SolarLint {
         }
     }
 
-    /* Correct this method so that after the
+    /* Correct the body of this method so that after the
      * correction there is no code smell 'java:S1643' */
     private static String mergeIntoSingleString(List<String> listOfStrings) {
         String result = "";
