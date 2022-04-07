@@ -17,7 +17,7 @@ Prior to completing the task deactivate IntelliJ IDEA _Inspect Code..._ tool:<br
 _Tools Bar ➔ Settings ➔ Editor ➔ Inspections ➔ Uncheck 'Java' ➔ OK_.
 
 ### Task description
-1. Prior to completing the task run `main` method and study `IntelliJ.java` mechanism. You will see that the code works, but it has some non-critical mistakes. Your task is to correct them.
+1. Prior to completing the task run `main` method and study `SolarLint.java` mechanism. You will see that the code works, but it has some non-critical mistakes. Your task is to correct them.
 2. Every Additional Method:
     - has a mistake that can be caught by SolarLint,
     - has clues one the id of the mistake which should be corrected.
