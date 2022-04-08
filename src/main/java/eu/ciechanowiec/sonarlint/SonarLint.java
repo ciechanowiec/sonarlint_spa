@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  * @author Herman Ciechanowiec
  */
-class SolarLint {
+class SonarLint {
 
     public static void main(String[] args) {
         /* * * * * * * * * * * * * * * * * * * *

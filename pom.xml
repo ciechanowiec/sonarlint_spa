@@ -88,7 +88,7 @@
               <addClasspath>true</addClasspath>
 	          <classpathPrefix>lib/</classpathPrefix> <!-- enables usage of dependencies from .jar
                                                            by copying them into the target folder -->
-              <mainClass>eu.ciechanowiec.sonarlint.SolarLint</mainClass>
+              <mainClass>eu.ciechanowiec.sonarlint.SonarLint</mainClass>
             </manifest>
           </archive>
         </configuration>
